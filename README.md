@@ -114,55 +114,44 @@ Note: The text seems to be cut off mid-sentence. If there's more content, please
 - Source code is readable by humans, while machine code is executable by computers.
 - Compiler errors prevent program compilation, while bugs occur when compiled code doesn't run as expected.
 
+---
+
 ##### Summarizing with an informal combination of inline-code and table formatting 'cuz I like tables :), but I don't trust Markdown... :( to format them better than I can when immplementing irrisponsible time-wasting... :)) tick tik tok :((
 
-### Ver(se)nacular:
+### Ver(se)nacular [A-Z]:
+A.
+B.
+C.
+#### Constants
+| Declaration | Initialization |
+| --- |--- |
+| `Identifier`         `Type` | `Expression` |
+| `MyF'ingConstant``:``float` | `= 2.0` |
+| --- | --- |
 
-A:
-
-B:
-
-C:
-  - Code Comments
-
-``` DrawingCodeWithPreciousWordses_AndCommentsesingWithPunctuationses
-|-------------------------------------------------------------------------------------------------------------------------|
-| 1+2 # Hola MukthaFkcka! | SINGLE-LINE COMMENT (^1) |
-|-------------------------------------------------------------------------------------------------------------------------|
-| 1<# inline comment, yo! #>+2 | INLINE BLOCK COMMENT: Anything appearing btwn <# and #> is part of the inline block-comments can be betweeen expressions on a single line and don't change the expressions. |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| DoDis_Homie() <# And they can run multpl long lines #> DatHomie() | MULTI-LINE BLOCK COMMENT: Anything that appears betweeen <# and #> is part of the code comment. (^2) |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <# Block comments nest <# like this #> #> | NESTED BLOCK COMMENT: Anything that appeasrs btwn <# and #> is part of the code comment. (^3) |
-|-----------------------------------------------|
-
-(^1) Anything btwn # and the end of the line is part of the code comment.
-(^2) Multi-line block comments can span multiple lines.
-(^3) This can be useful if you want to comment out some expressions in a line for testing and debugging without changing an existing code comment. Verse be taking code-comments seriously. I'm sincerely endeared to it for this. Fo real.
-```
-
-### Constants
-
-``` DrawingWithPreciousWordses_AndConstantPunctuationses
-|--------------------------------------------|
-| Declaration               | Initialization |
-|--------------------------------------------|
-| Identifier,           Type |Expression     |
-| MyF'ingConstant  , :, float|=, 2.0         |
-|--------------------------------------------|
-```
-D:
-E:
-F:
-G:
-H:
-I:
-J:
-K:
-L:
-M:
-N:
-O:
-P: 
-### Variables
-
+D.
+E.
+#### Expressions:
+- An expression is the smallest unit of code that produces a value when evaluated.
+   - Examples of expressions include if...else expressions.
+F.
+G.
+H.
+I.
+J.
+K.
+L.
+M.
+N.
+O.
+P. 
+Q.
+R.
+S.
+T.
+U.
+V.
+W.
+X.
+Y.
+Z.
